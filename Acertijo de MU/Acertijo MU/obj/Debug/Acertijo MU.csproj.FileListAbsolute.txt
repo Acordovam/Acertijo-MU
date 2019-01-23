@@ -1,0 +1,50 @@
+C:\Users\aleja\source\repos\Acertijo MU\Acertijo MU\obj\Debug\Acertijo MU.csprojAssemblyReference.cache
+C:\Users\aleja\source\repos\Acertijo MU\Acertijo MU\obj\Debug\Acertijo_MU.Form1.resources
+C:\Users\aleja\source\repos\Acertijo MU\Acertijo MU\obj\Debug\Acertijo_MU.Properties.Resources.resources
+C:\Users\aleja\source\repos\Acertijo MU\Acertijo MU\obj\Debug\Acertijo MU.csproj.GenerateResource.cache
+C:\Users\aleja\source\repos\Acertijo MU\Acertijo MU\obj\Debug\Acertijo MU.csproj.CoreCompileInputs.cache
+C:\Users\aleja\source\repos\Acertijo MU\Acertijo MU\bin\Debug\Acertijo MU.exe.config
+C:\Users\aleja\source\repos\Acertijo MU\Acertijo MU\bin\Debug\Acertijo MU.exe
+C:\Users\aleja\source\repos\Acertijo MU\Acertijo MU\bin\Debug\Acertijo MU.pdb
+C:\Users\aleja\source\repos\Acertijo MU\Acertijo MU\obj\Debug\Acertijo MU.exe
+C:\Users\aleja\source\repos\Acertijo MU\Acertijo MU\obj\Debug\Acertijo MU.pdb
+C:\Users\aleja\Documents\Acertijo MU\Acertijo de MU\Acertijo MU\bin\Debug\Acertijo MU.exe.config
+C:\Users\aleja\Documents\Acertijo MU\Acertijo de MU\Acertijo MU\bin\Debug\Acertijo MU.exe
+C:\Users\aleja\Documents\Acertijo MU\Acertijo de MU\Acertijo MU\bin\Debug\Acertijo MU.pdb
+C:\Users\aleja\Documents\Acertijo MU\Acertijo de MU\Acertijo MU\obj\Debug\Acertijo MU.csprojAssemblyReference.cache
+C:\Users\aleja\Documents\Acertijo MU\Acertijo de MU\Acertijo MU\obj\Debug\Acertijo_MU.Form1.resources
+C:\Users\aleja\Documents\Acertijo MU\Acertijo de MU\Acertijo MU\obj\Debug\Acertijo_MU.Properties.Resources.resources
+C:\Users\aleja\Documents\Acertijo MU\Acertijo de MU\Acertijo MU\obj\Debug\Acertijo MU.csproj.GenerateResource.cache
+C:\Users\aleja\Documents\Acertijo MU\Acertijo de MU\Acertijo MU\obj\Debug\Acertijo MU.csproj.CoreCompileInputs.cache
+C:\Users\aleja\Documents\Acertijo MU\Acertijo de MU\Acertijo MU\obj\Debug\Acertijo MU.exe
+C:\Users\aleja\Documents\Acertijo MU\Acertijo de MU\Acertijo MU\obj\Debug\Acertijo MU.pdb
+C:\Users\Alejandro Cordova\OneDrive\Documents\Acertijo MU\Acertijo de MU\Acertijo MU\bin\Debug\Acertijo MU.exe.config
+C:\Users\Alejandro Cordova\OneDrive\Documents\Acertijo MU\Acertijo de MU\Acertijo MU\bin\Debug\Acertijo MU.exe
+C:\Users\Alejandro Cordova\OneDrive\Documents\Acertijo MU\Acertijo de MU\Acertijo MU\bin\Debug\Acertijo MU.pdb
+C:\Users\Alejandro Cordova\OneDrive\Documents\Acertijo MU\Acertijo de MU\Acertijo MU\obj\Debug\Acertijo MU.csprojAssemblyReference.cache
+C:\Users\Alejandro Cordova\OneDrive\Documents\Acertijo MU\Acertijo de MU\Acertijo MU\obj\Debug\Acertijo_MU.form.resources
+C:\Users\Alejandro Cordova\OneDrive\Documents\Acertijo MU\Acertijo de MU\Acertijo MU\obj\Debug\Acertijo_MU.Properties.Resources.resources
+C:\Users\Alejandro Cordova\OneDrive\Documents\Acertijo MU\Acertijo de MU\Acertijo MU\obj\Debug\Acertijo MU.csproj.GenerateResource.cache
+C:\Users\Alejandro Cordova\OneDrive\Documents\Acertijo MU\Acertijo de MU\Acertijo MU\obj\Debug\Acertijo MU.csproj.CoreCompileInputs.cache
+C:\Users\Alejandro Cordova\OneDrive\Documents\Acertijo MU\Acertijo de MU\Acertijo MU\obj\Debug\Acertijo MU.exe
+C:\Users\Alejandro Cordova\OneDrive\Documents\Acertijo MU\Acertijo de MU\Acertijo MU\obj\Debug\Acertijo MU.pdb
+C:\Users\Alejandro Cordova\OneDrive\Documents\Proy6toSem\Acertijo MU\Acertijo de MU\Acertijo MU\bin\Debug\Acertijo MU.exe.config
+C:\Users\Alejandro Cordova\OneDrive\Documents\Proy6toSem\Acertijo MU\Acertijo de MU\Acertijo MU\bin\Debug\Acertijo MU.exe
+C:\Users\Alejandro Cordova\OneDrive\Documents\Proy6toSem\Acertijo MU\Acertijo de MU\Acertijo MU\bin\Debug\Acertijo MU.pdb
+C:\Users\Alejandro Cordova\OneDrive\Documents\Proy6toSem\Acertijo MU\Acertijo de MU\Acertijo MU\obj\Debug\Acertijo MU.csprojAssemblyReference.cache
+C:\Users\Alejandro Cordova\OneDrive\Documents\Proy6toSem\Acertijo MU\Acertijo de MU\Acertijo MU\obj\Debug\Acertijo_MU.form.resources
+C:\Users\Alejandro Cordova\OneDrive\Documents\Proy6toSem\Acertijo MU\Acertijo de MU\Acertijo MU\obj\Debug\Acertijo_MU.Properties.Resources.resources
+C:\Users\Alejandro Cordova\OneDrive\Documents\Proy6toSem\Acertijo MU\Acertijo de MU\Acertijo MU\obj\Debug\Acertijo MU.csproj.GenerateResource.cache
+C:\Users\Alejandro Cordova\OneDrive\Documents\Proy6toSem\Acertijo MU\Acertijo de MU\Acertijo MU\obj\Debug\Acertijo MU.csproj.CoreCompileInputs.cache
+C:\Users\Alejandro Cordova\OneDrive\Documents\Proy6toSem\Acertijo MU\Acertijo de MU\Acertijo MU\obj\Debug\Acertijo MU.exe
+C:\Users\Alejandro Cordova\OneDrive\Documents\Proy6toSem\Acertijo MU\Acertijo de MU\Acertijo MU\obj\Debug\Acertijo MU.pdb
+C:\Users\aleja\OneDrive\Documents\Proy6toSem\Acertijo MU\Acertijo de MU\Acertijo MU\bin\Debug\Acertijo MU.exe.config
+C:\Users\aleja\OneDrive\Documents\Proy6toSem\Acertijo MU\Acertijo de MU\Acertijo MU\bin\Debug\Acertijo MU.exe
+C:\Users\aleja\OneDrive\Documents\Proy6toSem\Acertijo MU\Acertijo de MU\Acertijo MU\bin\Debug\Acertijo MU.pdb
+C:\Users\aleja\OneDrive\Documents\Proy6toSem\Acertijo MU\Acertijo de MU\Acertijo MU\obj\Debug\Acertijo MU.csprojAssemblyReference.cache
+C:\Users\aleja\OneDrive\Documents\Proy6toSem\Acertijo MU\Acertijo de MU\Acertijo MU\obj\Debug\Acertijo_MU.form.resources
+C:\Users\aleja\OneDrive\Documents\Proy6toSem\Acertijo MU\Acertijo de MU\Acertijo MU\obj\Debug\Acertijo_MU.Properties.Resources.resources
+C:\Users\aleja\OneDrive\Documents\Proy6toSem\Acertijo MU\Acertijo de MU\Acertijo MU\obj\Debug\Acertijo MU.csproj.GenerateResource.cache
+C:\Users\aleja\OneDrive\Documents\Proy6toSem\Acertijo MU\Acertijo de MU\Acertijo MU\obj\Debug\Acertijo MU.csproj.CoreCompileInputs.cache
+C:\Users\aleja\OneDrive\Documents\Proy6toSem\Acertijo MU\Acertijo de MU\Acertijo MU\obj\Debug\Acertijo MU.exe
+C:\Users\aleja\OneDrive\Documents\Proy6toSem\Acertijo MU\Acertijo de MU\Acertijo MU\obj\Debug\Acertijo MU.pdb
